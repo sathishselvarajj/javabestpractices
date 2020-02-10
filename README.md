@@ -1,2 +1,2 @@
 # javabestpractices
-place to practice latest version functionalities
+Simple Java project to practive data structures and algorithms
